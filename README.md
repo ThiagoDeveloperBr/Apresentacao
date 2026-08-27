@@ -1,1 +1,48 @@
-# Apresentacao
+# 👋 Olá! Eu sou o Thiago
+
+Atualmente trabalho como **operador de loja** e sou estudante de **Análise e Desenvolvimento de Sistemas** 🎓. Gosto de resolver problemas complexos sobre tecnologia e sempre estudei T.I. Estou em busca de aumentar minhas habilidades não só no ramo de tecnologia, mas também com **gestão de pessoas e empresas**, além das minhas **habilidades comportamentais**.
+
+---
+
+## 🛠️ Ferramentas e Linguagens
+
+Atualmente tenho nível intermediário em **HTML5** e **CSS3**, conseguindo reproduzir designs de sites responsivos criados no **Figma** ou outros softwares de prototipagem.
+
+- 📐 **Design & Prototipagem:** `Figma` | `Canva`
+- 🌐 **Front-End:** `HTML5` | `CSS3` | `JavaScript` *(em breve)*
+- 💻 **Linguagens de Programação:** `Python` | `C`
+
+### ⚙️ Tech Stack & Badges:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 📢 [Agency WebSite UI Designer](https://github.com/ThiagoDeveloperBr/Agency-WebSite-UI-Designer.git)
+* **Marketing Course:** Landing page de curso de marketing baseada no **Figma** e adaptada para **desktop, tablet e celular** 📱💻.
+* **Tecnologias:** Desenvolvida apenas com `HTML5` e `CSS3`.
+* **Destaques:** Menu dropdown, botões animados, seções com imagens, rodapé com redes sociais e campo de e-mail visual.
+
+### 🏗️ [Site de Construtora UI](https://github.com/ThiagoDeveloperBr/Site-de-Construtora-UI.git)
+* **Landing Page Reproduzida a Partir de Design (Projeto Pessoal):** Desenvolvi uma landing page completa reproduzindo fielmente um design do **Canva**.
+* **Tecnologias:** `HTML5` e `CSS3` com código limpo e organizado.
+* **Destaques:** Foco em transformar um design estático em uma página funcional, aplicando boas práticas de front-end.
+
+### 🖥️ [Tech Developer](https://github.com/ThiagoDeveloperBr/Tech-Developer.git)
+* **Página Minimalista:** Curso de programação responsivo para **desktop, tablet e celular**.
+* **Tecnologias:** Desenvolvida apenas com `HTML5` e `CSS3` a partir de um design do **Figma**.
+* **Destaques:** Menu dropdown em telas menores e campo de e-mail visual.
+
+---
+
+## 🌐 Redes Sociais & Contato
+
+* 💼 **LinkedIn:** [linkedin.com/in/thiagojusto](https://LinkedIn.com/in/thiagojusto)
+* ✉️ **E-mail:** [thiagoleandrojusto@gmail.com](mailto:thiagoleandrojusto@Gmail.com)
+* 💻 **Dev.to:** [dev.to/thiago](https://dev.to)
+* 📸 **Instagram:** [@Thiago_1vz](https://instagram.com/Thiago_1vz)
