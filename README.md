@@ -44,5 +44,5 @@ Atualmente tenho nível intermediário em **HTML5** e **CSS3**, conseguindo repr
 
 * 💼 **LinkedIn:** [linkedin.com/in/thiagojusto](https://LinkedIn.com/in/thiagojusto)
 * ✉️ **E-mail:** [thiagoleandrojusto@gmail.com](mailto:thiagoleandrojusto@Gmail.com)
-* 💻 **Dev.to:** [dev.to/thiago](https://dev.to)
-* 📸 **Instagram:** [@Thiago_1vz](https://instagram.com/Thiago_1vz)
+* 💻 **Dev.to:** [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/seuperfil)](https://dev.to/thiagodeveloperbr)
+* 📸 **Instagram:** [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/seuperfil)](https://instagram.com/thiago_1vz)
